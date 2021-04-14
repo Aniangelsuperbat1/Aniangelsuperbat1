@@ -1,4 +1,6 @@
-### Hi there I'm Patrick Zhen👋
+Hi there I'm Patrick Zhen👋
+
+[Twitter]: https://twitter.com/patrick_zhen
 
 :hamburger:
 
@@ -10,7 +12,8 @@
 
 Connect with me!
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][Twitter]
+
 
 [LinkedIn](https://www.linkedin.com/in/patrick-zhen/)
 
