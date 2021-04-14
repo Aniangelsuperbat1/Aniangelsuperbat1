@@ -17,6 +17,7 @@ Connect with me!
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
+
 - 🌱 I’m currently learning ... All the Languages
 - ⚡ Fun fact: ... I am a aquarius, I enjoy sunsets, long walks on the beach and frisky women. 
 - 📫 How to reach me: ... Bat Symbol in the sky
