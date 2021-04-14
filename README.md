@@ -4,6 +4,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aniangesuperbat1.Aniangelsuperbat1)
 
+[Twitter](https://twitter.com/patrick_zhen)
+
 <!--
 **Aniangelsuperbat1/Aniangelsuperbat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
