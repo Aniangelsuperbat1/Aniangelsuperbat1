@@ -6,6 +6,10 @@
 
 [Twitter](https://twitter.com/patrick_zhen)
 
+[LinkedIn](https://www.linkedin.com/in/patrick-zhen/)
+
+
+
 <!--
 **Aniangelsuperbat1/Aniangelsuperbat1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
