@@ -2,8 +2,6 @@ Hi there, I'm Patrick Zhen. A software engineer who loves to build dope stuff! ð
 
 [![Aniangelsuperbat1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniangelsuperbat1&show_icons=true&theme=dark)](https://github.com/Aniangelsuperbat1/github-readme-stats)
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Aniangelsuperbat1" frameborder="0"></iframe>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aniangesuperbat1.Aniangelsuperbat1)
 
 ### Connect with me!
