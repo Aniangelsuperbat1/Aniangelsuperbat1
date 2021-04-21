@@ -1,6 +1,4 @@
-Hi there I'm Patrick Zhen👋
-
-:hamburger:
+Hi there, I'm Patrick Zhen. A software engineer who loves to build dope stuff! 👋
 
 [![Aniangelsuperbat1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniangelsuperbat1&show_icons=true&theme=dark)](https://github.com/Aniangelsuperbat1/github-readme-stats)
 
