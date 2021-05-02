@@ -1,4 +1,4 @@
-Hi there, I'm Patrick Zhen. A software engineer who loves to build dope stuff! Check out my projects! And thanking you for stopping by! 👋
+Hi there, I'm Patrick Zhen. A software engineer who loves to build dope stuff! Check out my projects! And thanking you for stopping by!
 
 [![Aniangelsuperbat1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniangelsuperbat1&show_icons=true&theme=dark)](https://github.com/Aniangelsuperbat1/github-readme-stats)
 
@@ -28,7 +28,7 @@ Hi there, I'm Patrick Zhen. A software engineer who loves to build dope stuff! C
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... My portfolio website!
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
