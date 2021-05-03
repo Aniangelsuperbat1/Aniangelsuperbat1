@@ -16,7 +16,7 @@ Hi there, I'm Patrick Zhen! A software engineer who loves to code and  build dop
 <br />
 <br />
 
-- 🌱 I’m currently learning ... All the Languages
+- 🌱 I’m currently learning ... All the Languages!!! And building dope projects!
 - ⚡ Fun fact: ... I am a aquarius, I enjoy sunsets, long walks on the beach and frisky women. 
 - 📫 How to reach me: ... Bat Symbol in the sky
 
