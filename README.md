@@ -5,7 +5,7 @@ Hi there, I'm Patrick Zhen! A software engineer who loves to code and  build dop
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aniangesuperbat1.Aniangelsuperbat1)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aniangelsuperbat1&theme=github_dark)
 
-### Connect with me!
+### Connect with me whenever!
 
 [Twitter]: https://twitter.com/patrick_zhen
 [LinkedIn]: https://www.linkedin.com/in/patrick-zhen/
