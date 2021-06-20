@@ -1,4 +1,4 @@
-Hello I am Patrick Zhen! A software engineer who loves to code and build dope stuff! Check out my fun and awesome projects, I cannot wait for you to see all the cool stuff I have built!! And thank you for stopping by and checking out my projects. 
+Hello I am Patrick Zhen! A software developer who loves to code and build dope stuff! Check out my fun and awesome projects, I cannot wait for you to see all the cool stuff I have built!! And thank you for stopping by and checking out my projects. 
 
 [![Aniangelsuperbat1 GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniangelsuperbat1&show_icons=true&theme=dark)](https://github.com/Aniangelsuperbat1/github-readme-stats)
 
