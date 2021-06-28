@@ -16,7 +16,7 @@ Hi there I am Patrick Zhen! A software developer who loves to code and build dop
 <br />
 <br />
 
-- 🌱 I’m currently learning ...Jenkins, unit testing, Python, JavaScript, GraphGL and doing LeetCode challenges!!!
+- 🌱 I’m currently learning ...Jenkins, unit testing, Python, JavaScript, and doing LeetCode challenges!!!
 - ⚡ Fun fact: ... I am a aquarius, I enjoy sunsets, long walks on the beach and dogs.
 - 📫 How to reach me: ... Bat symbol in the sky.
 
